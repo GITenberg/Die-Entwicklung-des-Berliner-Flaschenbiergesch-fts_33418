@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36394
     wikipedia: http://de.wikipedia.org/wiki/Gustav_Stresemann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33418#Die-Entwicklung-des-Berliner-Flaschenbiergesch-fts
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-08-13'
 gutenberg_type: Text
